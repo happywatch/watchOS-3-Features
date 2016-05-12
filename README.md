@@ -1,6 +1,8 @@
 # watchOS 3 Showcase
 
-This project also shows you how to use new capabilities in WatchKit for watchOS 3.0 including media support, the Digital Crown, and ClockKit.
+The week of WWDC, on June 18, 2016, we're getting together to build a showcase of watchOS 3 features. [Register.](http://www.meetup.com/apple-watch/events/231075936/)
+
+<p align="center"><img src="http://happy.watch/s/watchos-showcase-bezel.png" alt="watchOS Showcase Bezel Screenshot" /></p>
 
 ## Instructions for Teams
 
