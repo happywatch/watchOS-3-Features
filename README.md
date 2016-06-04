@@ -1,4 +1,4 @@
-# watchOS 3 Showcase
+# watchOS 3 Features
 
 The week of WWDC, on June 18, 2016, we're getting together to build a showcase of watchOS 3 features. [Register.](http://www.meetup.com/apple-watch/events/231075936/)
 
