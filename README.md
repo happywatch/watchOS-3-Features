@@ -7,7 +7,7 @@ The week of WWDC, on June 18, 2016, we're getting together to build a showcase o
 ## Instructions for Teams
 
 1. Clone the repository
-2. Create a new branch for your team
+2. Create a new branch with a descriptive name
 3. Commit changes
 4. Push changes
 5. `GOTO 3`
