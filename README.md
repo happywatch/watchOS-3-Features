@@ -26,11 +26,18 @@ The week of WWDC, on June 18, 2016, we're getting together to build a showcase o
 
 * [SpriteKit](https://developer.apple.com/videos/play/wwdc2016/610/)
 * [SceneKit](https://developer.apple.com/videos/play/wwdc2016/609/)
-* [Game Center](https://developer.apple.com/videos/play/wwdc2016/611/)
-* [HealthKit](https://developer.apple.com/videos/play/wwdc2016/209/)
+* [Game Center](https://developer.apple.com/videos/play/wwdc2016/611/), GameKit
+* [HealthKit](https://developer.apple.com/videos/play/wwdc2016/209/), Start a workout
+* [Workout Apps](https://developer.apple.com/videos/play/wwdc2016/235/)
 * [AVFoundation](https://developer.apple.com/videos/play/wwdc2016/503/)
 * [Advanced Notifications](https://developer.apple.com/videos/play/wwdc2016/708/)
 * [Core Location](https://developer.apple.com/videos/play/wwdc2016/716/)
 * [Core Motion](https://developer.apple.com/videos/play/wwdc2016/713/)
 * [HomeKit](https://developer.apple.com/videos/play/wwdc2016/710/)
 * [SiriKit](https://developer.apple.com/videos/play/wwdc2016/225/)
+* Complications - live or app shortcut, also Time Travel
+* Scribble
+* Backgrounding
+* Crown events
+* Gesture recognizers
+* Speaker access
