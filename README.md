@@ -13,3 +13,15 @@ The week of WWDC, on June 18, 2016, we're getting together to build a showcase o
 5. `GOTO 3`
 
 **Note:** Work only within your branch. We'll merge the branches after the event.
+
+## Ideas for things to work on (WWDC Videos)
+
+* [SpriteKit](https://developer.apple.com/videos/play/wwdc2016/610/)
+* [SceneKit](https://developer.apple.com/videos/play/wwdc2016/609/)
+* [Game Center](https://developer.apple.com/videos/play/wwdc2016/611/)
+* [HealthKit](https://developer.apple.com/videos/play/wwdc2016/209/)
+* [AVFoundation](https://developer.apple.com/videos/play/wwdc2016/503/)
+* [Advanced Notifications](https://developer.apple.com/videos/play/wwdc2016/708/)
+* [Core Location](https://developer.apple.com/videos/play/wwdc2016/716/)
+* [Core Motion](https://developer.apple.com/videos/play/wwdc2016/713/)
+* [HomeKit](https://developer.apple.com/videos/play/wwdc2016/710/)
