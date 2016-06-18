@@ -14,7 +14,16 @@ The week of WWDC, on June 18, 2016, we're getting together to build a showcase o
 
 **Note:** Work only within your branch. We'll merge the branches after the event.
 
-## Ideas for things to work on (WWDC Videos)
+## watchOS 3 WWDC Videos
+
+* [What’s New in watchOS 3](https://developer.apple.com/videos/play/wwdc2016/208/)
+* [Architecting for Performance on watchOS 3](https://developer.apple.com/videos/play/wwdc2016/227/)
+* [Getting the Most Out of HealthKit](https://developer.apple.com/videos/play/wwdc2016/209/)
+* [Keeping Your Watch App Up to Date](https://developer.apple.com/videos/play/wwdc2016/218/)
+* [Quick Interaction Techniques for watchOS](https://developer.apple.com/videos/play/wwdc2016/211/)
+* [Designing Great Apple Watch Experiences](https://developer.apple.com/videos/play/wwdc2016/804/)
+
+## Ideas for things to work on (also WWDC Videos)
 
 * [SpriteKit](https://developer.apple.com/videos/play/wwdc2016/610/)
 * [SceneKit](https://developer.apple.com/videos/play/wwdc2016/609/)
