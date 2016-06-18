@@ -33,3 +33,4 @@ The week of WWDC, on June 18, 2016, we're getting together to build a showcase o
 * [Core Location](https://developer.apple.com/videos/play/wwdc2016/716/)
 * [Core Motion](https://developer.apple.com/videos/play/wwdc2016/713/)
 * [HomeKit](https://developer.apple.com/videos/play/wwdc2016/710/)
+* [SiriKit](https://developer.apple.com/videos/play/wwdc2016/225/)
